@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oswaldo González</h1>
-<h3 align="center">A passionate system engineer from Colombia, I'm specialized in software development.</h3>
+<h3 align="center">A passionate system engineer from Colombia.</h3>
+
+- :mortar_board: I'm specialized in software development.
 
 - 💻 I like data science, computer vision, AI and data analysis too!
 
