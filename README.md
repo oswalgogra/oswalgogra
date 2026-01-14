@@ -5,13 +5,13 @@
 
 - 💻 I like data science, computer vision, AI and data analysis too!
 
-- 🔭 I’m currently working on [LiveMall](coming soon) and [Cambalache](coming soon)
+- 🔭 I’m currently working on [Recreaweb], [Macizo del Encanto] (Comfamiliar del Huila); [Cambalache] (Independent).
 
-- 🌱 I’m currently learning **Machine Learning and Data Science**
+- 🌱 I’m currently learning **Machine Learning and Data Science** and **Data Science** on DataCamp. 
 
 - 💬 Ask me about **IT project management, Python, PHP, Javascript, SQL**
 
-- ⚡ Fun fact **I like jogging 🏃 , cycling 🚴, reading 📖, voleyball 🏐**
+- ⚡ Fun fact **I like jogging 🏃 , cycling 🚴, lifting, reading 📖, voleyball 🏐**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
